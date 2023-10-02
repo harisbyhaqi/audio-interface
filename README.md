@@ -10,7 +10,7 @@ The MyAudio application is a comprehensive audio management program designed to 
    - Users can add, remove, and view audio content in the library.
    - Audio content can be of different types: Songs, Audio Books, and Podcasts.
 
-2. ** Store:**
+2. **Store:**
    - Simulated store for downloading additional audio content.
    - Utilizes a HashMap to track downloaded content.
 
