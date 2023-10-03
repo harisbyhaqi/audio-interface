@@ -1,4 +1,4 @@
-# Audio Interface Application
+# Audio Interface
 
 ## Introduction
 
