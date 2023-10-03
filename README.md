@@ -49,6 +49,9 @@ The MyAudio application is a comprehensive audio management program designed to 
 
 - **HashMaps:**
   - Utilized for tracking downloaded content.
+ 
+- **HashSets:**
+  - Utilized for efficiently adding new content to playlist. 
 
 ### Interfaces
 
