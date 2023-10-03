@@ -70,23 +70,23 @@ The MyAudio application is a comprehensive audio management program designed to 
 1. **Run the `MyAudioUI.java` file**
 
 2. **Use any of the following commands to test the programs functionality**
-     - store: lists all the audio content available, with the title, author name, content type and genre.
-     - download: allows you to download audio content based on the range you provide, start range and end range. Content number is shown in the store, downloads all song in the range.
-     - songs: Lists only the songs from the store
-     - Artists: lists only the artists from the store
-     - sortbyname: sorts songs alphabetically by first name
-     - sortbyyear: sorts song numerically by year
-     - playsong: play lyrics of a song, you will be asked to input a song number from the store
-     - books: Lists only the books from the store
-     - booktoc: lists the table of content for book number that you will input
-     - playbook: input a number for the book and a valid chapter number, it will then play that chapter of the book
-     - makepl: create a new playlist, input a name for your playlist
-     - addtopl: input a playlist name (one that you've created) then add songs, books to the playlist with the store content #
-     - printpl: lists all the content in your playlist
-     - playallpl: play all the contents in the playlist
-     - playpl: input the # of item in your playlist to play that specific content
-     - delsong: delete a song from the store
-     - quit
+     - **store:** lists all the audio content available, with the title, author name, content type and genre.
+     - **download:** allows you to download audio content based on the range you provide, start range and end range. Content number is shown in the store, downloads all song in the range.
+     - **songs:** Lists only the songs from the store
+     - **Artists:** lists only the artists from the store
+     - **sortbyname:** sorts songs alphabetically by first name
+     - **sortbyyear:** sorts song numerically by year
+     - **playsong:** play lyrics of a song, you will be asked to input a song number from the store
+     - **books:** Lists only the books from the store
+     - **booktoc:** lists the table of content for book number that you will input
+     - **playbook:** input a number for the book and a valid chapter number, it will then play that chapter of the book
+     - **makepl:** create a new playlist, input a name for your playlist
+     - **addtopl:** input a playlist name (one that you've created) then add songs, books to the playlist with the store content #
+     - **printpl:** lists all the content in your playlist
+     - **playallpl:** play all the contents in the playlist
+     - **playpl:** input the # of item in your playlist to play that specific content
+     - **delsong:** delete a song from the store
+     - **quit**
 
 
 ## Contributing
